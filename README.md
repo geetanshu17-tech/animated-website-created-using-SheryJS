@@ -6,8 +6,6 @@ This project focuses on immersive visuals, smooth animations, and a clean design
 
 ---
 
----
-
 ## 📌 Features
 
 ### ✨ UI & Animations
