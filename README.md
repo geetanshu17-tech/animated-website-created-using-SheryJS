@@ -6,10 +6,6 @@ This project focuses on immersive visuals, smooth animations, and a clean design
 
 ---
 
-## 🚀 Live Demo
-
-(You can add your deployed link here)
-
 ---
 
 ## 📌 Features
